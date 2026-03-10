@@ -1,5 +1,4 @@
-# ECE 407: Assignment 2 - Custom IMU Chip Emulator
-
+# ECE 407: Assignment 2 - Wokwi Custom I2C or SPI Chip
 ### Group Name/Number
 * **Name:** Adam Yin
 * **Group:** Group0x05
