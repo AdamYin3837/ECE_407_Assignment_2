@@ -1,0 +1,15 @@
+{
+    "name": "customized-imu",
+    "author": "Yan Yong Yin",
+    "pins": [
+      "VCC",
+      "GND",
+      "SCL",
+      "SDA",
+      "CS",
+      "SCLK",
+      "SDIO"
+    ],
+    "controls": []
+  }
+  
